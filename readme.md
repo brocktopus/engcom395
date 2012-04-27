@@ -6,6 +6,8 @@ This project serves as an archival repository of the materials used in an upper-
 
 The focus of the course was on "code, computation, & rhetoric" - an exploration of both the rhetorical capabilities and implications of software code and the computational qualities of rhetoric. This was accomplished by working critically and creatively to understand the fundamental principles of rhetoric and computation that underlie persuasion and software use, respectively.
 
+None of the students enrolled in the course was expected to have any experience with any kind of programming or coding language (including HTML).
+
 This class was taught by Kevin Brock (kevin_brock@ncsu.edu).
 
 The directory structure is as follows (and will expand further, soon):
