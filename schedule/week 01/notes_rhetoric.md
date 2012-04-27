@@ -12,7 +12,6 @@
 3. Memory – for public speaking, to recall easily and effectively the argument
 4. Delivery – presentation of the argument for a particular audience in a mediated setting (public speech, email, courtroom closing argument, instant message, etc.)
 5. Style – ornamentation, language, constraint that defines how we approach the use of these canons
-* Tropes (e.g. metaphor)
 
 ## Rhetorical Situation
 

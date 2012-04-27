@@ -6,7 +6,7 @@ __In Class__: Course overview & policies; participant introductions
 
 ## Thursday - An introduction to rhetoric
 
-__Reading__: Cline, Andrew, _A Rhetoric Primer_ (the following excerpts)
+__Reading__: Cline, Andrew. _A Rhetoric Primer_ (the following excerpts)
 * ["Introduction"](http://rhetorica.net/textbook/intro.htm)
 * ["The Rhetorical Situation"](http://rhetorica.net/kairos.htm)
 * ["Canons of Rhetoric"](http://rhetorica.net/textbook/canons_of_rhetoric.htm)
