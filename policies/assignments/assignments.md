@@ -9,6 +9,7 @@ Students will maintain regular out-of-class interaction and discussion through t
 This assignment serves as an initial demonstration of students' understanding (after the first several weeks of class) of the connections and relationships between rhetoric and digital technologies. The essay has a 4-6 page length requirement and the use of sources – from class readings or from outside research – is highly encouraged, especially in relation to rhetorical concepts that the students may not have been familiar with. Topics could be built upon discussions we had either in class or on our Moodle forum. Students are also encouraged to consider (whether addressed explicitly in this text or not) how they might work off of this topic into the creative projects that would follow this critically-oriented project.
 
 Some central questions to be addressed specifically:
+
 1. What is the issue to be discussed? (How would it be introduced and concisely described?)
 2. Can we trace its background at all? 
 3. Are there certain rhetorical principles or situations that we can identify as relating to this issue? (If the topic focuses on cultural implications of one or more technologies, how can we address rhetoric more explicitly within that topic?)

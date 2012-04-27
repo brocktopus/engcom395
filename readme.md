@@ -24,14 +24,14 @@ project root
 	|	|	|- recursion_failure
 	|	|	\- rotating_iterations
 	|	+- week 07
-	|	|	+- maze
+	|	|	\- maze
 	|	+- week 10
 	|	|	\- boolean_clicking
 	|	+- week 11
 	|	+- week 12
 	|	+- week 14
 	|	+- week 15
-	|		+- dracula_in_letters
+	|		\- dracula_in_letters
 	|
 	+- policies
 	|	|- assignments
