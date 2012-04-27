@@ -37,9 +37,9 @@ Casey Reas & Ben Fry, _Getting Started with Processing_, Chapter 3
 ## Week 5
 
 ### Tuesday
-Marcel Benabou, "Rule and Constraint," _Oulipo_ pp. 40-46
+Marcel Benabou, "Rule and Constraint," _Oulipo_, pp. 40-46
 
-Raymond Queneau, [_Cent mille millardes de Poemes_] (http://www.bevrowe.info/Queneau/QueneauRandom_v4.html)
+Raymond Queneau, [_Cent mille millardes de Poemes (One Hundred Thousand Billion Poems)_] (http://www.bevrowe.info/Queneau/QueneauRandom_v4.html)
 
 Casey Reas & Ben Fry, _Getting Started with Processing_, Chapter 4
 

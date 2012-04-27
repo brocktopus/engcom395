@@ -4,8 +4,8 @@
 
 __Reading__: 
 
-* Benabou, Marcel. "Rule and Constraint," _Oulipo_ pp. 40-46.
-* Queneau, Raymond. [_Cent mille millardes de Poemes_] (http://www.bevrowe.info/Queneau/QueneauRandom_v4.html).
+* Benabou, Marcel. "Rule and Constraint," _Oulipo_, pp. 40-46.
+* Queneau, Raymond. [_Cent mille millardes de Poemes (One Hundred Thousand Billion Poems)_] (http://www.bevrowe.info/Queneau/QueneauRandom_v4.html).
 * Reas, Casey, and Ben Fry. _Getting Started with Processing_, Chapter 4.
 
 __In Class__: Working with changing variables.
