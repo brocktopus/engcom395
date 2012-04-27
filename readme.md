@@ -1,11 +1,16 @@
-ENG/COM 395: Code, Computation, & Rhetoric
+# ENG/COM 395: Code, Computation, & Rhetoric
 
-This project will serve as an archival repository of the materials used in an upper-level humanities course on digital media & rhetoric at North Carolina State University (Spring 2012).
+## An upper-level undergraduate humanities course on digital media and rhetoric
+
+This project serves as an archival repository of the materials used in an upper-level humanities course (a 'special topics' course on digital media & rhetoric), geared primarily towards students of English and Communication, at North Carolina State University (Spring 2012). 
+
+The focus of the course was on "code, computation, & rhetoric" - an exploration of both the rhetorical capabilities and implications of software code and the computational qualities of rhetoric. This was accomplished by working critically and creatively to understand the fundamental principles of rhetoric and computation that underlie persuasion and software use, respectively.
 
 This class was taught by Kevin Brock (kevin_brock@ncsu.edu).
 
 The directory structure is as follows (and will expand further, soon):
 
+<pre>
 project root 
 	+- code examples
 	|	+- week 05
@@ -51,3 +56,4 @@ project root
 		+- week 16
 		+- week 17
 		+- week 18
+</pre>
