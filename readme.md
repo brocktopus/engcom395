@@ -10,7 +10,7 @@ None of the students enrolled in the course was expected to have any experience 
 
 This class was taught by Kevin Brock (kevin_brock@ncsu.edu).
 
-The directory structure is as follows (and will expand further, soon):
+The directory structure is as follows (not including the 'data' subdirectories for some of the code examples):
 
 <pre>
 project root 

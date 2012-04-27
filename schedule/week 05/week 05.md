@@ -3,17 +3,18 @@
 ## Tuesday - Computation in literature: Oulipo
 
 __Reading__: 
-*Benabou, Marcel. "Rule and Constraint," _Oulipo_ pp. 40-46.
-*Queneau, Raymond. [_Cent mille millardes de Poemes_] (http://www.bevrowe.info/Queneau/QueneauRandom_v4.html).
-*Reas, Casey, and Ben Fry. _Getting Started with Processing_, Chapter 4.
+
+* Benabou, Marcel. "Rule and Constraint," _Oulipo_ pp. 40-46.
+* Queneau, Raymond. [_Cent mille millardes de Poemes_] (http://www.bevrowe.info/Queneau/QueneauRandom_v4.html).
+* Reas, Casey, and Ben Fry. _Getting Started with Processing_, Chapter 4.
 
 __In Class__: Working with changing variables.
 
 ## Thursday - Computation in literature: hypertext
 
 __Reading__:
-*Toledo, Titus. ["Sarcophagus.txt"](http://www4.ncsu.edu/~kmbrock/sarcophagus/) (This is an archived copy of a text no longer available on the web).
-*Rushkoff, Douglas. _Program or Be Programmed_, Chapter 4, Chapter 5, & Chapter 9.
+* Toledo, Titus. ["Sarcophagus.txt"](http://www4.ncsu.edu/~kmbrock/sarcophagus/) (This is an archived copy of a text no longer available on the web).
+* Rushkoff, Douglas. _Program or Be Programmed_, Chapter 4, Chapter 5, & Chapter 9.
 
 __In Class__: Discussing relationships between components of an argument.
 
