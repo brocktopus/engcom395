@@ -56,7 +56,7 @@ Alexandra Amati-Camperi, ["What Is a Fugue?"](http://www.sfbach.org/what-fugue)
 Johann Sebastian Bach, [_"Little" Fugue in G Minor_](http://www.youtube.com/watch?v=pVadl4ocX0M)
 
 ### Thursday
-Laurence Goldstein, "Reflexivity, Contradiction, Paradox and M.C. Escher" (availability dependent upon institutional journal subscriptions)
+Laurence Goldstein, "Reflexivity, Contradiction, Paradox and M.C. Escher." _Leonardo_ 29.4 (1996): 299-308. (availability dependent upon institutional journal subscriptions)
 
 M.C. Escher, [_Relativity_](http://www.mcescher.com/Gallery/back-bmp/LW389.jpg)
 
