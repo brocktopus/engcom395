@@ -8,6 +8,8 @@ __Reading__:
 
 __In Class__: Connecting rhetorical aesthetics with computational and combinatorial patterns.
 
+__Code Examples__: [Recursion Failure](../../code examples/week 06/recursion_failure)
+
 ## Thursday - Computation in art: M.C. Escher
 
 __Reading__: 
@@ -16,5 +18,12 @@ __Reading__:
 * Goldstein, Laurence. "Reflexivity, Contradiction, Paradox and M.C. Escher." _Leonardo_ 29.4 (1996): 299-308. (availability dependent upon institutional journal subscriptions)
 
 __In Class__: Connecting rhetorical aesthetics with computational patterns, continued.
+
+__Code Examples__: 
+* [Iterative Squares](../../code examples/week 06/iterative_squares)
+* [Iterative Colors](../../code examples/week 06/iterative_colors)
+* [Procedural Colors](../../code examples/week 06/procedural_colors)
+* [Rotating Iterations](../../code examples/week 06/rotating_iterations)
+* [Iterative Text](../../code examples/week 06/iterative_text)
 
 __Due__: [Critical Assessment Essay](../../policies/assignments/assignments.md).

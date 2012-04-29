@@ -2,4 +2,4 @@
 
 ## Tuesday - Reflecting on coding rhetorically
 
-## Thursday - __No Class__ (Spring holiday)
+## Thursday - NO CLASS (Spring holiday)

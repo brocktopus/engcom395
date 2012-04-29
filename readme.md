@@ -28,9 +28,14 @@ project root
 	|	+- week 07
 	|	|	\- maze
 	|	+- week 10
-	|	|	\- boolean_clicking
+	|	|	|- boolean_clicking
+	|	|	|- dice_roller
+	|	|	|- simple_quiz
+	|	|	\- square_over_time
 	|	+- week 11
+	|	|	\- twitter_search
 	|	+- week 12
+	|	|	\- interactive_mouse_keyboard
 	|	+- week 14
 	|	+- week 15
 	|		\- dracula_in_letters

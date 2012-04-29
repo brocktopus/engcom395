@@ -9,6 +9,8 @@ __Reading__:
 __In Class__: Examining dynamic media and their "mechanisms" for action.
 * Looking at [The Naked Game](http://web.archive.org/web/20080420084021/http://www.retrodev.co.uk/MiscGames/NakedGame/TheNakedGame.html)
 
+__Code Examples__: [Maze](../../code examples/week 07/maze)
+
 ## Thursday - Merging digital and physical experiences
 
 __Reading__:

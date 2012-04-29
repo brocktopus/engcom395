@@ -10,6 +10,10 @@ __Reading__:
 
 __In Class__: Working with changing variables.
 
+__Code Examples__:
+* [Simple Array](../../code examples/week 05/simple_array)
+* [Trickier Array](../../code examples/week 05/trickier_array)
+
 ## Thursday - Computation in literature: hypertext
 
 __Reading__:
