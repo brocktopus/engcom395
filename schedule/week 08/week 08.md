@@ -4,4 +4,4 @@
 
 ## Thursday - Midterm presentations, continued
 
-__Due__: [Creative Project 1](../assignments/assignments.md)
+__Due__: [Creative Project 1](../../policies/assignments/assignments.md)

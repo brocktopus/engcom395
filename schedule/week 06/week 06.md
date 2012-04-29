@@ -17,4 +17,4 @@ __Reading__:
 
 __In Class__: Connecting rhetorical aesthetics with computational patterns, continued.
 
-__Due__: [Critical Assessment Essay](../policies/assignments/assignments.md).
+__Due__: [Critical Assessment Essay](../../policies/assignments/assignments.md).
