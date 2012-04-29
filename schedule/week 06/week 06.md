@@ -26,4 +26,9 @@ __Code Examples__:
 * [Rotating Iterations](../../code examples/week 06/rotating_iterations)
 * [Iterative Text](../../code examples/week 06/iterative_text)
 
+Note: the 'iterative' and 'procedural' names above are a bit of a misnomer (since all
+of these examples are iterative and procedural). The distinction being made is in regards
+to the 'iterative' sketches using a for() loop to calculate everything at once; the
+procedural sketch draws each individually over time.
+
 __Due__: [Critical Assessment Essay](../../policies/assignments/assignments.md).
