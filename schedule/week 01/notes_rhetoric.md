@@ -19,7 +19,6 @@
 2. Audience – recipient of communication
 3. Constraints – those qualities that will influence how the audience receives and responds to the rhetor's argument
 4. Exigence - "imperfection marked by urgency" - the need to act (in _this way_)
-
     * Kairos – knowing what to say/do at the right time in the right situation
 
 ## Types of Appeal
