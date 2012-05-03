@@ -6,4 +6,10 @@ __Reading__: Reas, Casey and Ben Fry. _Getting Started with Processing_. Chapter
 
 __In Class__: Manipulating the camera
 
+__Code Examples__: [../../code examples/week 14/bouncy_text]
+
 ## Thursday - Three-dimensional space, continued
+
+__In Class__: Manipulating the camera
+
+__Code Examples__: [../../code examples/week 14/bouncy_image]

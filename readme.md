@@ -45,6 +45,8 @@ project root
 	|	|	\- interactive_mouse_keyboard
 	|	|
 	|	+- week 14
+	|	|	|- bouncy_image
+	|	|	\- bouncy_text
 	|	|
 	|	+- week 15
 	|		\- dracula_in_letters
