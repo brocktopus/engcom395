@@ -108,6 +108,7 @@ Casey Reas & Ben Fry, _Getting Started with Processing_, Chapter 11 (to p. 167)
 
 ## Week 15
 Daniel Hillis, _The Pattern on the Stone_, pp. 137-152
+Matthew Kirschenbaum, ["Hello Worlds: Why Humanities Students Should Learn to Program"](http://moodle.wolfware.ncsu.edu/mod/resource/view.php?id=1630625)
 
 ## Week 16
 (No reading.)

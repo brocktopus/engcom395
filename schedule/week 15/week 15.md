@@ -10,6 +10,8 @@ __Code Examples__:
 
 ## Thursday - To what end? Concerns beyond the course
 
-__Reading__: Hillis, Daniel. _The Pattern on the Stone_. pp. 137-152.
+__Reading__: 
+* Hillis, Daniel. _The Pattern on the Stone_. pp. 137-152.
+* Kirschenbaum, Matthew. ["Hello Worlds: Why Humanities Students Should Learn to Program"](http://moodle.wolfware.ncsu.edu/mod/resource/view.php?id=1630625)
 
 __In Class__: Discussing possibilities for using our new knowledge outside the classroom.
