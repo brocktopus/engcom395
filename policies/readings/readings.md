@@ -44,7 +44,7 @@ Raymond Queneau, [_Cent mille millardes de Poemes (One Hundred Thousand Billion 
 Casey Reas & Ben Fry, _Getting Started with Processing_, Chapter 4
 
 ### Thursday
-Titus Toledo, ["Sarcophagus.txt"](http://www4.ncsu.edu/~kmbrock/sarcophagus/) (This is an archived copy of a text no longer available on the web)
+Titus Toledo, ["Sarcophagus.txt"](http://www.brockoleur.com/sarcophagus/) (This is an archived copy of a text no longer available on the web)
 
 Douglas Rushkoff, _Program or Be Programmed_, Chapter 4, Chapter 5, & Chapter 9
 
